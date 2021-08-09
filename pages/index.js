@@ -1,8 +1,7 @@
 import { useState } from "react";
-
 function Home() {
   return (
-    <div>
+    <div className="home">
       <h1>hellow</h1>
       <Contador />
     </div>
